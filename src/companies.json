@@ -1,0 +1,12 @@
+[
+    {
+        "name" : "Pega",
+        "numberOfEmployees" : 1600,
+        "ceo": "Alan"
+    },
+    {
+        "name" : "My company",
+        "numberOfEmployees" : 1,
+        "ceo": null
+    }
+]
